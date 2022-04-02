@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Helping others 
 - 🌱 I’m currently learning ...HUD 
 - 💞️ I’m looking to collaborate on ...Business 
-- 📫 How to reach me ...
+- 📫 How to reach me ...README.diamond35
 
 <!---
 diamond35/diamond35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
